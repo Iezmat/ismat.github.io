@@ -1,0 +1,3 @@
+get waves.io = link agar gambar navbar bergelombang
+unsplash.com = untuk mencari gambar keren
+boostrap.com
